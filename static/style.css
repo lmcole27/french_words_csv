@@ -1,0 +1,9 @@
+.container.show-french {
+    transform: rotate(-20deg);
+    transition: transform 0.4s ease;
+}
+
+h4 {
+    font-size: 50px; 
+    color: tomato;   
+}
